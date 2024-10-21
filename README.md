@@ -1,8 +1,8 @@
 
 
-```markdown
-# Discord Bot
-```
+
+# Studdy
+
 
 A simple Discord bot with features like using ollama's api to send messages in such channel that is designated.
 
