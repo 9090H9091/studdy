@@ -6,7 +6,7 @@
 A simple Discord bot with features like using ollama's api to send messages in such channel that is designated.
 
 ## How to Use
-
+```
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/repo-name.git
