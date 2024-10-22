@@ -22,6 +22,12 @@ A simple Discord bot with features like using ollama's api to send messages in s
    ```bash
    pip install -r requirements.txt
    ```
+3.1 Non pip install
+   `For users on linux based distros, whom experience PIP not working`
+   ```bash
+   sudo apt install < requirements.txt
+   ```
+   
 
 4. Create a `.env` file and add your Discord bot token, Ollama port (default 11434), Selected llm, server, channel:
    ```plaintext
