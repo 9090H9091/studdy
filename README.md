@@ -29,7 +29,7 @@ A simple Discord bot with features like using ollama's api to send messages in s
    ```
    
 
-4. Create a `.env` file and add your Discord bot token, Ollama port (default 11434), Selected llm, server, channel:
+4. Edit the `.env` file and add your Discord bot token, Ollama port (default 11434), Selected llm, server, channel:
    ```plaintext
    DISCORD_TOKEN=YOUR_DISCORD_TOKEN
    DISCORD_TOKEN=PUT DISCORD TOKEN HERE
